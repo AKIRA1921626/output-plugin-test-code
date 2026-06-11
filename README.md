@@ -1,7 +1,9 @@
 # output-plugin-test-code
 出力プラグインのテストコード  
 
-下記で使用する用途で、実用性はありません。  
+下記で使用する用途で作成したサンプルプログラムです。  
+使い方は下記URLの最後に書いています。  
+実用性はありません。  
 https://akira1921626.github.io/How-to-create-a-sample-plugin-for-Aviutl2/  
 
 また、本コードはAIに作成をお願いしました。  
